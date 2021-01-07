@@ -1,0 +1,11 @@
+F:\JobSeekerVisa\Job_Related\APITemplate\APITemplate\bin\Debug\netcoreapp2.0\APITemplate.deps.json
+F:\JobSeekerVisa\Job_Related\APITemplate\APITemplate\bin\Debug\netcoreapp2.0\APITemplate.runtimeconfig.json
+F:\JobSeekerVisa\Job_Related\APITemplate\APITemplate\bin\Debug\netcoreapp2.0\APITemplate.runtimeconfig.dev.json
+F:\JobSeekerVisa\Job_Related\APITemplate\APITemplate\bin\Debug\netcoreapp2.0\APITemplate.dll
+F:\JobSeekerVisa\Job_Related\APITemplate\APITemplate\bin\Debug\netcoreapp2.0\APITemplate.pdb
+F:\JobSeekerVisa\Job_Related\APITemplate\APITemplate\obj\Debug\netcoreapp2.0\APITemplate.csprojResolveAssemblyReference.cache
+F:\JobSeekerVisa\Job_Related\APITemplate\APITemplate\obj\Debug\netcoreapp2.0\APITemplate.csproj.CoreCompileInputs.cache
+F:\JobSeekerVisa\Job_Related\APITemplate\APITemplate\obj\Debug\netcoreapp2.0\APITemplate.AssemblyInfoInputs.cache
+F:\JobSeekerVisa\Job_Related\APITemplate\APITemplate\obj\Debug\netcoreapp2.0\APITemplate.AssemblyInfo.cs
+F:\JobSeekerVisa\Job_Related\APITemplate\APITemplate\obj\Debug\netcoreapp2.0\APITemplate.dll
+F:\JobSeekerVisa\Job_Related\APITemplate\APITemplate\obj\Debug\netcoreapp2.0\APITemplate.pdb
